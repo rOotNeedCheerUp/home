@@ -1,4 +1,4 @@
-package com.zwd.home.RabbitMQ.mode6_work_ack;
+package com.zwd.home.RabbitMQ.mq1_work_ack;
 
 import com.rabbitmq.client.Channel;
 import com.zwd.home.RabbitMQ.RabbitMqUtils;

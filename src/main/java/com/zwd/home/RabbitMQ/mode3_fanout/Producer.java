@@ -2,7 +2,6 @@ package com.zwd.home.RabbitMQ.mode3_fanout;
 
 import com.rabbitmq.client.BuiltinExchangeType;
 import com.rabbitmq.client.Channel;
-import com.rabbitmq.client.MessageProperties;
 import com.zwd.home.RabbitMQ.RabbitMqUtils;
 
 // 生产者

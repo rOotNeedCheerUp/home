@@ -4,7 +4,7 @@ import com.rabbitmq.client.Channel;
 import com.zwd.home.RabbitMQ.RabbitMqUtils;
 
 public class Producer {
-    public static String QUEUE_NAME = "hello";
+    public static String QUEUE_NAME = "hello2";
 
     public static void main(String[] args) throws Exception {
         Channel channel = RabbitMqUtils.getChannel();
